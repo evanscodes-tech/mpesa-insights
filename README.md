@@ -1,6 +1,9 @@
  FinScore - M-PESA Credit Scoring Engine
 
 An AI-powered credit scoring system that analyzes M-PESA transactions to determine loan eligibility for the unbanked.
+⚠️ IMPORTANT: This project builds upon the excellent [M-Pesa Insights](https://github.com/mufasa78/mpesa-insights) by Stanley Njoroge (mufasa78). 
+The original provides the core transaction parsing, categorization, and Markov Chain predictions. 
+My contribution is the credit scoring engine and loan eligibility system.
 
 ![FinScore Dashboard](screenshot.png)
 
